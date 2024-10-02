@@ -20,6 +20,7 @@ import {
 <!--    <app-new-component/>-->
 <!--    <app-template-binding/>-->
 <!--    <app-template-variables/>-->
+    <h2>Control Flow</h2>
     <app-template-control-flow/>
   `
 })
